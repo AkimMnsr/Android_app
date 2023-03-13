@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Kdo</string>
+    <string name="label_desc_article">Description de l\'article</string>
+    <string name="titleArticle" translatable="false">DETAILS D\'UN ARTICLE</string>
+</resources>
